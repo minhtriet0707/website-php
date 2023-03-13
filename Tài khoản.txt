@@ -1,0 +1,8 @@
+Người dùng
+
+	User:dallasjoitc@gmail.com
+	Password:123
+----------------------------------------------
+Admin
+	User:admin
+	Password:admin
